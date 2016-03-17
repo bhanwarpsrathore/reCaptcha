@@ -1,1 +1,1 @@
-# reCaptcha Plugin for cakephp
+# reCaptcha Plugin for cakephp 2
