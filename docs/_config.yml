@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: reCaptcha plugin
+description: reCaptcha Plugin for cakephp 2
+show_downloads: true
