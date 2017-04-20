@@ -2,14 +2,6 @@
 layout: default
 ---
 
-# [](#header-2)reCaptcha Plugin for cakephp 2
-
-* * *
-
-# [](#header-1)Description
-
-* * *
-
 reCAPTCHA is a free CAPTCHA service that protect websites from spam and abuse.
 
 #Usage First, register keys for your site at [here](https://www.google.com/recaptcha/admin)
