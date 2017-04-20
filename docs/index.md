@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [](#header-2)reCaptcha Plugin for cakephp 2
+# [](#header-2)reCaptcha Plugin for cakephp 2
 
 * * *
 
