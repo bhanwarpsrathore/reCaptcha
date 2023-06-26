@@ -1,0 +1,7 @@
+{
+    "name": "bhanwarpsrathore/recaptcha",
+    "description": "reCaptcha Plugin for cakephp 2",
+    "require": {
+        "php": ">=7.0"
+    }
+}
